@@ -1,2 +1,2 @@
 # ML_roadmap
-ml journey
+ML_JOURNEY
